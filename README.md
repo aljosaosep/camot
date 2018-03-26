@@ -6,6 +6,9 @@ This repository contains the code for:
 
 By [Aljosa Osep](https://www.vision.rwth-aachen.de/person/13/), [Wolfgang Mehner](https://www.vision.rwth-aachen.de/person/7/), [Paul Voigtlaender](https://www.vision.rwth-aachen.de/person/197/), and [Bastian Leibe](https://www.vision.rwth-aachen.de/person/1/)
 
+## Demo  Video
+[Click here to watch the video](https://youtu.be/HYXzHuD4AKI).
+
 ![Alt text](https://github.com/aljosaosep/kitti-track-collection/blob/master/img/header.png?raw=true?raw=true "CAMOT result on KITTI Raw dataset.")
 
 ## Cooming soon!
